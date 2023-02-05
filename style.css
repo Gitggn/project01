@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+   margin:auto;
+   text-align:center;
+   padding-top:88px;
+}
+.container{
+    background-color: black;
+    border: 8px solid rgb(97, 94, 94);
+    display: inline-block;
+    border-radius: 6px;
+    padding-right: 6px;
+    padding-top: 4px ;
+    padding-bottom: 4px ;
+}
+button{
+    text-align: center;
+    border-radius: 30px;
+   height:55px;
+   width:55px;
+   cursor:pointer;
+   margin:3px
+}
+input{
+    font-size: medium;
+    height:55px;
+    
+    width:100%;
+    background-color:#fdf3f5f5;
+}
+.bgcolor{
+    background-color: rgb(255, 204, 0);
+}
+.spbtn{
+    background-color: rgb(116, 111, 111);
+    color: white;
+}
+
